@@ -9,7 +9,7 @@
 - Programa Construído promovido pela Rocketseat para ensino de Tecnologia Web.
 
 
-[Clique aqui para acessar](https://nanaimacedo.github.io/nlw-esports-explorer)
+[Clique aqui para acessar]https://github.com/nanaimacedo/projeto-DevLinks
 
 ## Tecnologias 
 
