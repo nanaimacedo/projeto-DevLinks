@@ -6,7 +6,7 @@
 
 > Trilha Explorer
 
-- Programa Construído promovido pela Rocketseat para ensino de Tecnologia Web.
+- Programa  promovido pela Rocketseat para ensino de Tecnologia Web.
 
 
 [Clique aqui para acessar]https://github.com/nanaimacedo/projeto-DevLinks
